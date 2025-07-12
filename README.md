@@ -82,9 +82,9 @@ This project was developed by:
 
 ## **🔗 Project Links**
 
-* **Personas**: [Canva Link](https://www.canva.com/)  
+* **Personas**: [Canva Link](https://www.canva.com/design/DAGey0rvWew/ZaTptZNei4P7R4hl71qSzg/edit?utm_content=DAGey0rvWew&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
 * **Empathy Mapping**: [Canva Link](https://www.canva.com/)  
 * **How Might We (HMW)**: [Canva Link](https://www.canva.com/)  
-* **Low-Fidelity Prototype**: [Figma Link](https://www.figma.com/)  
-* **Mid-Fidelity Prototype**: [Figma Link](https://www.figma.com/)
+* **Low-Fidelity Prototype**: [Figma Link](https://www.figma.com/design/HU87dqw6TvPrrUZyDeyaHg/Untitled?node-id=0-1&t=oBYimbqi1zN7XQBQ-1)  
+* **Mid-Fidelity Prototype**: [Figma Link](https://www.figma.com/design/HU87dqw6TvPrrUZyDeyaHg/Untitled?node-id=0-1&t=oBYimbqi1zN7XQBQ-1)
 
