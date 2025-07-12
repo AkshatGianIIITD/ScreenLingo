@@ -39,6 +39,9 @@ The system operates in a continuous, real-time pipeline:
 
 This entire process repeats at a configurable interval to balance responsiveness and performance.
 
+<img width="1019" height="322" alt="image" src="https://github.com/user-attachments/assets/d08b6c8c-9fc9-4b7c-b894-4a1471194cee" />
+
+
 ## **🛠️ Technology Stack**
 
 * **Framework**: Flutter  
